@@ -1,0 +1,1 @@
+RENAME TABLE Mobile_Details TO MOBILE_RECORD;
