@@ -1,0 +1,1 @@
+Delete from mobile_record where Mobile_Name ='Iphone';

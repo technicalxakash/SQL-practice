@@ -1,1 +1,1 @@
-TRUNCATE TABLE Mobile_records;
+TRUNCATE TABLE Mobile_record;
